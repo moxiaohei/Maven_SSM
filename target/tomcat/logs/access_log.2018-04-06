@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:20:17:47 +0800] "GET /Maven_SSM/getAllTeacherInfo HTTP/1.1" 200 624 http-bio-8080-exec-1 1749
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:20:17:49 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:20:25:27 +0800] "GET /Maven_SSM/getAllTeacherInfo HTTP/1.1" 200 624 http-bio-8080-exec-1 851
+0:0:0:0:0:0:0:1 - - [06/Apr/2018:21:00:04 +0800] "GET /Maven_SSM/getAllTeacherInfo HTTP/1.1" 200 624 http-bio-8080-exec-1 1351

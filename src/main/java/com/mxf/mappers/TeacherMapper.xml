@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.mxf.mappers.ITeacherMapper" >
+  <!-- 查询所有简历信息 -->
+  <select id="getAllTeacherInfo" resultType="com.mxf.entity.Teacher" >
+	 select id,name,password from teacher
+  </select>
+</mapper>
