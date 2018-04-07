@@ -5,5 +5,5 @@
 **使用教程**
 
 1. 可以直接在数据库中运行文件中的first.sql文件，会自动生成对应的数据表
-2. 导入项目到自己的IDEA中去，使用Maven命令:tomcat7:run运行该项目
+2. 导入项目到自己的IDEA中去，更改数据库配置文件db.properties为自己的用户名和密码，使用Maven命令:tomcat7:run运行该项目
 3. 看到输出栏无任何错误信息时，在浏览器中访问http://localhost:8080/Maven_SSM/getAllTeacherInfo 即可输出所有信息，即测试成功
